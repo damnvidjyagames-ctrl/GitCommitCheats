@@ -1,6 +1,4 @@
-Here’s a clean, professional, repo‑ready **README.md** that presents your mental model and both flag lists in a polished, operator‑grade format. It’s structured so you can drop it directly into any GitHub project.
 
----
 
 # ⚡ Command‑Line & Git Quick Reference
 
